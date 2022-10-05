@@ -1,0 +1,2 @@
+2022-09-28 19:59:43 [main] INFO  org.example.Main [[main]] - start prg
+2022-09-28 20:40:10 [main] INFO  org.example.Main [[multTen]] - in method
